@@ -17,14 +17,23 @@ body {
     
 }
 
+/*Mudar tema do "título"
+Cores?
+A cabeça*/
 header {
 
-    background-color: blue;
-    color: #fff;
+    background-color: black;
+    color: white;
     text-align: center;
     padding: 20px;
 
 }
+
+/*Colocar pontos do lado
+Mudar cores
+Mudar cores dos "subtitulos"*/
+
+/*Tentar cortar imagem*/
 
 h1 {
 
@@ -66,3 +75,4 @@ li {
     margin-bottom: 10px;
 
 }
+
